@@ -4,7 +4,7 @@
 - **Bold Text Example**
 - *Italic Text Example*
 - ~~Strikethrough Example~~
-- 
+  
 ### Lists
 - Unordered List Item 1
 - Unordered List Item 2
